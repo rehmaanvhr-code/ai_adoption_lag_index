@@ -1,0 +1,13 @@
+country,iso3,firm_adoption_rate,ai_investment_per_capita_usd,ai_talent_concentration,ai_policies_count,binding_regulation,regulator_capacity
+Canada,CAN,12.0,65,1.9,38,0.3,0.70
+United States,USA,18.0,320,3.1,62,0.4,0.75
+United Kingdom,GBR,16.0,90,2.6,45,0.3,0.80
+Germany,DEU,14.0,45,1.7,34,1.0,0.75
+France,FRA,13.0,40,1.5,30,1.0,0.70
+Japan,JPN,11.0,30,1.1,28,0.2,0.65
+South Korea,KOR,15.0,55,2.0,26,0.8,0.70
+Singapore,SGP,22.0,110,3.4,24,0.5,0.85
+India,IND,9.0,4,1.3,20,0.1,0.40
+China,CHN,17.0,25,1.6,41,0.9,0.60
+Australia,AUS,13.0,50,1.8,22,0.2,0.65
+Brazil,BRA,8.0,5,0.6,15,0.2,0.40
