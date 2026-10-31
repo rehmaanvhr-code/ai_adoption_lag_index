@@ -1,0 +1,13 @@
+sector,adoption_growth_pts,adoption_score,governance_score,lag_gap,regulated_sector
+Information and cultural industries,16.0,1.0,0.3,0.7,0
+Professional scientific and technical services,15.0,0.926,0.253,0.673,0
+Educational services,8.0,0.407,0.197,0.211,0
+Manufacturing,6.5,0.296,0.113,0.184,0
+Retail trade,5.5,0.222,0.075,0.147,0
+Transportation and warehousing,4.5,0.148,0.056,0.092,0
+Accommodation and food services,2.5,0.0,0.0,0.0,0
+Construction,2.5,0.0,0.019,-0.019,0
+Finance and insurance,11.5,0.667,1.0,-0.333,1
+Health care and social assistance,5.0,0.185,0.775,-0.59,1
+Public administration,6.5,0.296,0.953,-0.657,1
+Utilities,5.0,0.185,0.85,-0.665,1
